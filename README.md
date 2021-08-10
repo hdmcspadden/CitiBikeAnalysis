@@ -1,6 +1,6 @@
 # Citi Bike Usage in New York City
 ## Big Data Systems (DS 5110)
-August 11, 2021
+**August 11, 2021**
 
 Diana McSpadden (hdm5s)
 
