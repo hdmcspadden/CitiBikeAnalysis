@@ -15,7 +15,6 @@ Abigail Bernhardt (aeb4rv)
 * Code_HTML: html version of ipynb files
 * Code_IPYNB: python notebooks
 * EDA_Images: EDA plots required for course final project
-* Figures: Figures included in final report
 * Presentation: PDF version of slides used for 7-minute final presentation
 * Report_ReportAndAppendix: PDF of report sumitted for course and supporting Appendices
 
