@@ -11,6 +11,14 @@ Eric Sarani (es5cj)
 
 Abigail Bernhardt (aeb4rv)
 
+## REPO CONTENTS
+* Code_HTML: html version of ipynb files
+* Code_IPYNB: python notebooks
+* EDA_Images: EDA plots required for course final project
+* Figures: Figures included in final report
+* Presentation: PDF version of slides used for 7-minute final presentation
+* Report_ReportAndAppendix: PDF of report sumitted for course and supporting Appendices
+
 ## ABSTRACT
 New York City (NYC) offers residents and visitors a multitude of transportation options, but they must consider numerous factors when deciding which option to use. For this analysis we obtained data from Lyft’s Citigroup-sponsored bike-share program, Citi Bike. By analyzing bike trips between 2018 and 2021, we discovered how changing conditions affect bike usage and how bike usage affects the city. Variables studied included bike-trip specifics (date-time, location, distance), weather, and real estate metrics (zip code, price, etc.). By employing K-Means, Graph Neural Network, Random Forest, Logistic and Linear Regression models, we observed:
 
